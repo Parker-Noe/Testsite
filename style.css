@@ -1,0 +1,9 @@
+#helloText {
+    font-weight: bold;
+    color: red;
+}
+
+#worldText {
+    font-style: italic;
+    color: blue;
+}
